@@ -5,7 +5,7 @@ This repo is a demo for Colyseus and Schema Serializer
 it is intended to be used as a template or for testing
 
 ## Server
-- Made in Node.JS (Haxe soon maybe)
+- Made in Node.js (Haxe soon maybe)
 - Uses TypeScript
 - Exposes on port 6543 (check index.ts listen)
 - Basic server for updating the positions of all players (may not be accurate across clients)
